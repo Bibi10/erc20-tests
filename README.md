@@ -13,7 +13,7 @@ Before running the script, ensure you have the following:
 
 - Node.js installed on your machine. [Download Node.js](https://nodejs.org/)
 - An Ethereum local Node
-- Ethers installed [Download Node.js](https://docs.ethers.org/)
+- Ethers installed [Download Ethers](https://docs.ethers.org/)
 
 ## Installation
 
